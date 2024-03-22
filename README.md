@@ -53,6 +53,8 @@
         <br>
         </div>
         </div>
+        
+---
 
 <h1 style="font-size: 55px; color: #00008B; font-family: 'Lato', sans-serif;">PROJECT STRUCTURE :open_file_folder:</h1>
 <br>
@@ -78,11 +80,41 @@
 <p>
   As a final step, I develop a <strong><a href="https://github.com/TonioDominguez/Fake_News_Detector/blob/main/app.py">Streamlit app</a></strong> where I thoroughly develop the storytelling of the project creation and allow you to use the predictor.
 </p>
-
 <br>
+
+---
+
+<h1 style="font-size: 55px; color: #00008B; font-family: 'Lato', sans-serif;">PROJECT DEVELOPMENT TIME ⏰</h1>
+<br>
+
+<p>
+    <strong>10 days</strong> from <strong>03/12/24</strong> to <strong>03/22/24</strong>
+  </p>
+  <br>
+
+---
+
+<h1 style="font-size: 55px; color: #00008B; font-family: 'Lato', sans-serif;">SOURCES :fountain:</h1>
+<br>
+        <p>
+            A few sites I have turned to for enlightenment in the creation process:
+        </p>
+        <p>
+        &#x25AA; <u><a href="https://www.kaggle.com/datasets/arseniitretiakov/noticias-falsas-en-espaol">Kaggle</a></u>: Where I found the datasets that started it all.<br>
+        &#x25AA; <u><a href="https://github.com/restevesd/Clasificador/blob/main/Art%C3%ADculo_Julio.ipynb">Roberto Esteves Github</a></u>: Inquiry about a project that also developed a fake news classifier.<br>
+        &#x25AA; <u><a href="https://github.com/sentiment-analysis-spanish/sentiment-spanish">sentiment-analysis-spanish</a></u>: Library for performing sentiment analysis NLP.<br>
+        &#x25AA; <u><a href="https://github.com/TonioDominguez?tab=repositories">My Github repositories</a></u>: Where I reviewed old labs to refresh my memory on working with supervised classification models.<br>
+        &#x25AA; <u><a href="https://docs.streamlit.io">Streamlit Docs</a></u>: Documentation checked to know how to tame this beast.<br>
+        &#x25AA; <u><a href="https://chat.openai.com/">ChatGPT</a></u>: The snitch that kept whispering to me what I was doing wrong when the code errors were driving me crazy.<br>
+        </p>
+        <br>
+        </div>
+        </div>
+
+---
         
 <div style="text-align:center">
-            <h1 style="font-size: 55px; color: #00008B; font-family: 'Lato', sans-serif;">LETS TALK ABOUT FEELINGS</h1>
+            <h1 style="font-size: 55px; color: #00008B; font-family: 'Lato', sans-serif;">LETS TALK ABOUT FEELINGS :star:</h1>
             <h3 style="font-size: 30px; color: #010168; font-family: 'Lato', sans-serif;">Hope you found this project interesting!</h3>
             <br>    
         </div>
@@ -108,26 +140,6 @@
         </p>
         <p>
            Best regards and <strong>VIVA LA DATA</strong>! 
-        </p>
-        <br>
-        </div>
-        </div>
-        <div style="text-align:center">
-            <h3 style="font-size: 30px; color: #010168; font-family: 'Lato', sans-serif;">Sources consulted</h3>
-        <br>
-        </div>
-        <div style="text-align:center">
-        <div style="text-align: justify; color: black; max-width: 1000px; margin: 0 auto;">
-        <p>
-            A few sites I have turned to for enlightenment in the creation process:
-        </p>
-        <p>
-        &#x25AA; <u><a href="https://www.kaggle.com/datasets/arseniitretiakov/noticias-falsas-en-espaol">Kaggle</a></u>: Where I found the datasets that started it all.<br>
-        &#x25AA; <u><a href="https://github.com/restevesd/Clasificador/blob/main/Art%C3%ADculo_Julio.ipynb">Roberto Esteves Github</a></u>: Inquiry about a project that also developed a fake news classifier.<br>
-        &#x25AA; <u><a href="https://github.com/sentiment-analysis-spanish/sentiment-spanish">sentiment-analysis-spanish</a></u>: Library for performing sentiment analysis NLP.<br>
-        &#x25AA; <u><a href="https://github.com/TonioDominguez?tab=repositories">My Github repositories</a></u>: Where I reviewed old labs to refresh my memory on working with supervised classification models.<br>
-        &#x25AA; <u><a href="https://docs.streamlit.io">Streamlit Docs</a></u>: Documentation checked to know how to tame this beast.<br>
-        &#x25AA; <u><a href="https://chat.openai.com/">ChatGPT</a></u>: The snitch that kept whispering to me what I was doing wrong when the code errors were driving me crazy.<br>
         </p>
         <br>
         </div>
