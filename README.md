@@ -60,7 +60,7 @@
 <br>
 
 <p>
-  This project is developed through a bunch of notebooks.
+  This project is developed through a bunch of Python notebooks.
 </p>
 
 <ol>
