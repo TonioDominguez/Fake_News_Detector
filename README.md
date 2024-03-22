@@ -1,8 +1,8 @@
 <div style="text-align:center">
             <img src="https://i.imgur.com/6ZS6kSq.png" alt="Home banner" style="width: 75%;">
             <br>
+            <h1 style="font-size: 55px; color: #00008B; font-family: 'Lato', sans-serif;">FAKE NEWS PREDICTOR PROJECT :newspaper::mag:</h1>
             <br>
-            <h1 style="font-size: 55px; color: #00008B; font-family: 'Lato', sans-serif;">FAKE NEWS PREDICTOR PROJECT</h1>
             <h3 style="font-size: 30px; color: #010168; font-family: 'Lato', sans-serif;">Make sure that what you are being told is truth</h3>
             <br>    
         </div>
@@ -20,25 +20,25 @@
         <p>
             <strong>So, let's embrace our inner skeptics</strong>. Let's challenge the status quo and demand accountability from those who shape the narratives we consume. In a world where information is power, it's up to us to wield that power responsibly. And that starts with being discerning consumers of information.
         </p>
+        </div>
+        </div>
         <br>
-        </div>
-        </div>
         <div style="text-align:center">
             <h3 style="font-size: 30px; color: #010168; font-family: 'Lato', sans-serif;">But what happens when we're drowning in information overload?</h3>
-        <br>
         </div>
         <div style="text-align:center">
         <div style="text-align: justify; color: black; max-width: 1000px; margin: 0 auto;">
+                    <br>
         <p>
             This is where technology can be our greatest ally. With the right tools and strategies, <strong>technology can help us sift through the noise</strong> and find the signal—the truth—in the midst of the chaos. From fact-checking websites and browser extensions that detect misinformation to algorithms that curate personalized news feeds based on our interests and credibility ratings, technology offers a multitude of resources to help us discern fact from fiction.
         </p>
+        </div>
+        </div>
         <br>
-        </div>
-        </div>
         <div style="text-align:center">
             <h3 style="font-size: 30px; color: #010168; font-family: 'Lato', sans-serif;">For all these reasons, I present my humble project</h3>
-        <br>
         </div>
+        <br>
         <div style="text-align:center">
         <div style="text-align: justify; color: black; max-width: 1000px; margin: 0 auto;">
         <p>
@@ -53,6 +53,34 @@
         <br>
         </div>
         </div>
+
+<h1 style="font-size: 55px; color: #00008B; font-family: 'Lato', sans-serif;">PROJECT STRUCTURE :open_file_folder:</h1>
+<br>
+
+<p>
+  This project is developed through a bunch of notebooks.
+</p>
+
+<ol>
+  <li>
+    <strong><a href="https://github.com/TonioDominguez/Fake_News_Detector/blob/main/fake_news_preprocessing.ipynb">FAKE NEWS PREPROCESSING & EDA:</a></strong> A first notebook where I clean and process the datasets that I'm going to use to build my prediction model. I also perform EDA (Exploratory Data Analysis) on crucial variables and Sentiment Analysis.
+  </li>
+  
+  <li>
+    <strong><a href="https://github.com/TonioDominguez/Fake_News_Detector/blob/main/fake_news_classifier.ipynb">ML DEVELOPING & TESTING:</a></strong> Here, I select, fine-tune, and measure the results of the ML model that best fits the project. I also perform tests of the complete model with a dataset external to the training data.
+  </li>
+  
+  <li>
+    <strong><a href="https://github.com/TonioDominguez/Fake_News_Detector/blob/main/predictor_fakenews_input.ipynb">FAKE NEWS DETECTOR PER SOLO IMPUTS:</a></strong> As a summary, I create this Notebook by importing the complete model and adding some functions that clean the user input to process their text and test it.
+  </li>
+</ol>
+
+<p>
+  As a final step, I develop a <strong><a href="https://github.com/TonioDominguez/Fake_News_Detector/blob/main/app.py">Streamlit app</a></strong> where I thoroughly develop the storytelling of the project creation and allow you to use the predictor.
+</p>
+
+<br>
+        
 <div style="text-align:center">
             <h1 style="font-size: 55px; color: #00008B; font-family: 'Lato', sans-serif;">LETS TALK ABOUT FEELINGS</h1>
             <h3 style="font-size: 30px; color: #010168; font-family: 'Lato', sans-serif;">Hope you found this project interesting!</h3>
